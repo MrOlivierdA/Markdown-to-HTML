@@ -1,0 +1,54 @@
+header {
+  margin: 25px 50px;
+  text-align: center;
+  background-color: rgba(250, 235, 215, 0.527);
+  border-radius: 33px;
+  border-style: solid;
+}
+h1 {
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 2px 2px 0 rgb(123 126 126);
+}
+h3 {
+  text-align: center;
+  font-family: sans-serif;
+}
+h4 {
+  text-align: center;
+  font-family: sans-serif;
+}
+body {
+  margin: 0 100px;
+  background: url("bg.jpg") fixed;
+  background-size: 100% auto;
+  border-radius: 33px;
+}
+main {
+  margin: 50px;
+  padding: 25px;
+  border-radius: 15px;
+  background-color: rgba(250, 235, 215, 0.664);
+  box-shadow: 0 2px 12px 5px rgba(0, 0, 0, 0.356);
+}
+.photo {
+  clip-path: ellipse(20% 50%);
+  text-align: center;
+}
+table {
+  margin: 0 480px;
+  padding: 10px;
+  text-align: center;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.loisirs {
+  margin: 0 525px;
+}
+.phrase {
+  text-align: center;
+  text-justify: auto;
+}
+.links {
+  margin: 0 500px;
+}
